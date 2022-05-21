@@ -5,7 +5,7 @@ public class Conta {
     private Cliente cliente;
     private TipoConta tipoConta;
     private Agencia agencia;
-    private long numConta;
+    private Long numConta;
     private double saldo;
     private static long cont = 0001;
 
